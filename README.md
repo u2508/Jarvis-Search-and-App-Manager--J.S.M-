@@ -1,2 +1,19 @@
 # Jarvis Search and App Manager (J.S.M)
- 
+commands usable 
+    "hii"
+    "hey"
+    "what is the time"
+    "what is the date"
+    "what is the date and time"
+    "what is your name"
+    "who am I speaking with"
+    "open notepad"
+    "open paint"
+    "open google"
+    "open webpage"
+    "open youtube"
+    "close edge"
+    "open photos"
+    "drop my needle"
+    "bye"
+    "leaving"
